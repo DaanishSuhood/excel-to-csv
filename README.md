@@ -3,7 +3,7 @@
 Exports every worksheet of every selected workbook as its own UTF-8 CSV file. Works on a hand-picked
 list of files, or on a whole folder tree.
 
-Script: [`ExceltoCSV.ahk`](ExceltoCSV.ahk)
+Script: [`excel-to-csv.ahk`](excel-to-csv.ahk)
 
 ---
 
@@ -16,7 +16,7 @@ Script: [`ExceltoCSV.ahk`](ExceltoCSV.ahk)
 
 ## Getting started
 
-1. Run `ExceltoCSV.ahk`.
+1. Run `excel-to-csv.ahk`.
 2. Pick an input mode:
    - **Convert individual files** — **Add Files…** to build a list (`.xlsx`, `.xlsm`, `.xls`).
    - **Convert a whole folder** — **Browse…** to a folder; it is scanned **recursively**, including
